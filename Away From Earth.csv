@@ -9,8 +9,8 @@
 16.07.2025,14:00,Berlin
 16.07.2025,22:00,Amsterdam
 17.07.2025,14:00,Amsterdam
-17.07.2025,22:00,Brussel
-18.07.2025,14:00,Brussel
+17.07.2025,22:00,Brussels
+18.07.2025,14:00,Brussels
 18.07.2025,22:00,London
 19.07.2025,14:00,London
 19.07.2025,22:00,Glasgow
@@ -25,12 +25,12 @@
 25.07.2025,14:00,Madrid
 25.07.2025,22:00,Johannesburg
 26.07.2025,14:00,Johannesburg
-26.07.2025,22:00,RiodeJaneiro
-27.07.2025,14:00,RiodeJaneiro
-27.07.2025,22:00,SãoPaulo
-28.07.2025,14:00,SãoPaulo
-28.07.2025,22:00,BuenosAires
-29.07.2025,14:00,BuenosAires
+26.07.2025,22:00,Rio de Janeiro
+27.07.2025,14:00,Rio de Janeiro
+27.07.2025,22:00,São Paulo
+28.07.2025,14:00,São Paulo
+28.07.2025,22:00,Buenos Aires
+29.07.2025,14:00,Buenos Aires
 29.07.2025,22:00,Nashville
 30.07.2025,14:00,Nashville
 30.07.2025,22:00,NewYork
@@ -43,10 +43,10 @@
 03.08.2025,14:00,Chicago
 03.08.2025,22:00,Seattle
 04.08.2025,14:00,Seattle
-04.08.2025,22:00,LosAngeles
-05.08.2025,14:00,LosAngeles
-05.08.2025,22:00,MexicoCity
-06.08.2025,14:00,MexicoCity
+04.08.2025,22:00,Los Angeles
+05.08.2025,14:00,Los Angeles
+05.08.2025,22:00,Mexico City
+06.08.2025,14:00,Mexico City
 07.08.2025,22:00,Shanghai
 08.08.2025,14:00,Shanghai
 08.08.2025,22:00,Tokyo
@@ -107,8 +107,8 @@
 05.09.2025,14:00,Berlin
 05.09.2025,22:00,Amsterdam
 06.09.2025,14:00,Amsterdam
-06.09.2025,22:00,Brussel
-07.09.2025,14:00,Brussel
+06.09.2025,22:00,Brussels
+07.09.2025,14:00,Brussels
 07.09.2025,22:00,London
 08.09.2025,14:00,London
 08.09.2025,22:00,Glasgow
@@ -123,12 +123,12 @@
 13.09.2025,14:00,Madrid
 13.09.2025,22:00,Johannesburg
 14.09.2025,14:00,Johannesburg
-14.09.2025,22:00,RiodeJaneiro
-15.09.2025,14:00,RiodeJaneiro
-15.09.2025,22:00,SãoPaulo
-16.09.2025,14:00,SãoPaulo
-16.09.2025,22:00,BuenosAires
-17.09.2025,14:00,BuenosAires
+14.09.2025,22:00,Rio de Janeiro
+15.09.2025,14:00,Rio de Janeiro
+15.09.2025,22:00,São Paulo
+16.09.2025,14:00,São Paulo
+16.09.2025,22:00,Buenos Aires
+17.09.2025,14:00,Buenos Aires
 17.09.2025,22:00,Nashville
 19.09.2025,14:00,Nashville
 19.09.2025,22:00,NewYork
@@ -141,10 +141,10 @@
 23.09.2025,14:00,Chicago
 23.09.2025,22:00,Seattle
 24.09.2025,14:00,Seattle
-24.09.2025,22:00,LosAngeles
-25.09.2025,14:00,LosAngeles
-25.09.2025,22:00,MexicoCity
-26.09.2025,14:00,MexicoCity
+24.09.2025,22:00,Los Angeles
+25.09.2025,14:00,Los Angeles
+25.09.2025,22:00,Mexico City
+26.09.2025,14:00,Mexico City
 27.09.2025,22:00,Shanghai
 28.09.2025,14:00,Shanghai
 28.09.2025,22:00,Tokyo
@@ -205,8 +205,8 @@
 26.10.2025,14:00,Berlin
 26.10.2025,22:00,Amsterdam
 27.10.2025,14:00,Amsterdam
-27.10.2025,22:00,Brussel
-28.10.2025,14:00,Brussel
+27.10.2025,22:00,Brussels
+28.10.2025,14:00,Brussels
 28.10.2025,22:00,London
 29.10.2025,14:00,London
 29.10.2025,22:00,Glasgow
@@ -221,12 +221,12 @@
 03.11.2025,14:00,Madrid
 03.11.2025,22:00,Johannesburg
 04.11.2025,14:00,Johannesburg
-04.11.2025,22:00,RiodeJaneiro
-05.11.2025,14:00,RiodeJaneiro
-05.11.2025,22:00,SãoPaulo
-06.11.2025,14:00,SãoPaulo
-06.11.2025,22:00,BuenosAires
-07.11.2025,14:00,BuenosAires
+04.11.2025,22:00,Rio de Janeiro
+05.11.2025,14:00,Rio de Janeiro
+05.11.2025,22:00,São Paulo
+06.11.2025,14:00,São Paulo
+06.11.2025,22:00,Buenos Aires
+07.11.2025,14:00,Buenos Aires
 07.11.2025,22:00,Nashville
 08.11.2025,14:00,Nashville
 08.11.2025,22:00,NewYork
@@ -239,10 +239,10 @@
 12.11.2025,14:00,Chicago
 12.11.2025,22:00,Seattle
 14.11.2025,14:00,Seattle
-14.11.2025,22:00,LosAngeles
-15.11.2025,14:00,LosAngeles
-15.11.2025,22:00,MexicoCity
-16.11.2025,14:00,MexicoCity
+14.11.2025,22:00,Los Angeles
+15.11.2025,14:00,Los Angeles
+15.11.2025,22:00,Mexico City
+16.11.2025,14:00,Mexico City
 17.11.2025,22:00,Shanghai
 18.11.2025,14:00,Shanghai
 18.11.2025,22:00,Tokyo
@@ -303,8 +303,8 @@
 16.12.2025,14:00,Berlin
 16.12.2025,22:00,Amsterdam
 17.12.2025,14:00,Amsterdam
-17.12.2025,22:00,Brussel
-18.12.2025,14:00,Brussel
+17.12.2025,22:00,Brussels
+18.12.2025,14:00,Brussels
 18.12.2025,22:00,London
 19.12.2025,14:00,London
 19.12.2025,22:00,Glasgow
@@ -319,12 +319,12 @@
 24.12.2025,14:00,Madrid
 24.12.2025,22:00,Johannesburg
 25.12.2025,14:00,Johannesburg
-25.12.2025,22:00,RiodeJaneiro
-26.12.2025,14:00,RiodeJaneiro
-26.12.2025,22:00,SãoPaulo
-27.12.2025,14:00,SãoPaulo
-27.12.2025,22:00,BuenosAires
-28.12.2025,14:00,BuenosAires
+25.12.2025,22:00,Rio de Janeiro
+26.12.2025,14:00,Rio de Janeiro
+26.12.2025,22:00,São Paulo
+27.12.2025,14:00,São Paulo
+27.12.2025,22:00,Buenos Aires
+28.12.2025,14:00,Buenos Aires
 28.12.2025,22:00,Nashville
 29.12.2025,14:00,Nashville
 29.12.2025,22:00,NewYork
